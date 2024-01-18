@@ -15,6 +15,9 @@ gem "puma", ">= 5.0"
 gem "stimulus-rails"
 gem "turbo-rails"
 
+gem "trailblazer", ">= 2.1.0"
+gem "trailblazer-rails"
+
 gem "tzinfo-data", platforms: %i[ windows jruby ]
 
 group :development, :test do
